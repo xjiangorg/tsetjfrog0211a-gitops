@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: tsetjfrog0211a-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/tsetjfrog0211a-gitops
